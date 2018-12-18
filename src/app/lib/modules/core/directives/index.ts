@@ -1,0 +1,1 @@
+export { FullscreenDirective } from './fullscreen';
